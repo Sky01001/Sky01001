@@ -1,7 +1,7 @@
 Hi there 👋
 
 
-🧑🏻‍💻 I go by "Sepehr," but you can call me "Sam," my nickname.
+🧑🏻‍💻 I go by "Abraham," but you can call me "Sam," my nickname.
 
 🌱 I am presently a freelance application developer skilled in Swift, Dart, and Kotlin.
 
