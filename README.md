@@ -9,7 +9,7 @@ Hi there 👋
 
 🤩 I enjoy solving Sudoku puzzles, and anything that involves creativity captivates me.
 
-📫 How to reach me: https://t.me/SepehrTechExplorer
+📫 How to reach me: https://t.me/SamTechExplorer
 
 <!---
 Sky01001/Sky01001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
